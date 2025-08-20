@@ -33,6 +33,6 @@ The dataset (`used_car_price_dataset_extended.csv`) includes columns such as:
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/used-car-price-prediction.git
+git clone https://github.com/sidrekt/ds-ml-min-projects.git/used-car-price-prediction
 cd used-car-price-prediction
 pip install -r requirements.txt
