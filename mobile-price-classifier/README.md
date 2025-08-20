@@ -25,5 +25,5 @@ It demonstrates how feature engineering, scaling, and deep learning can be combi
 ## Usage
 1. Clone the repository and navigate to the project folder:
    ```bash
-   git clone https://github.com/your-username/ds-ml-mini-projects.git
+   git clone https://github.com/sidrekt/ds-ml-mini-projects.git
    cd ds-ml-mini-projects/used-car-price-prediction

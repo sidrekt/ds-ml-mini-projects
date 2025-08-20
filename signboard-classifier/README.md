@@ -23,5 +23,5 @@ Real-world signboards are first detected using **YOLO** and passed through an **
 ## Usage
 1. Clone the repository and navigate to this folder:
    ```bash
-   git clone https://github.com/your-username/ds-ml-mini-projects.git
+   git clone https://github.com/sidrekt/ds-ml-mini-projects.git
    cd ds-ml-mini-projects/synthetic-signboard-classifier

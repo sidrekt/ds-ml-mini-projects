@@ -21,5 +21,5 @@ The dataset contains 50,000 reviews labeled by sentiment, making it a standard b
 ## Usage
 1. Clone the repository and navigate to the project folder:
    ```bash
-   git clone https://github.com/your-username/ds-ml-mini-projects.git
+   git clone https://github.com/sidrekt/ds-ml-mini-projects.git
    cd ds-ml-mini-projects/imdb-sentiment-analysis
